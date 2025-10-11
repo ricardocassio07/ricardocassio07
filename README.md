@@ -3,7 +3,7 @@
 </div> -->
 
 ###
-<h1>FALA, REDE!!! 😁👍</h1>
+<p>FALA, REDE!!! 😁👍</p>
 
 <p align="left">Sou Cássio, formado como técnico em Desenvolvimento de Sistemas e em Administração, atualmente estou ampliando meus conhecimentos em tecnologia como estudante de Análise e Desenvolvimento de Sistemas na Fatec Zona Leste. Apaixonado por programação e tecnologia, estou sempre em busca de aprender e colocar a mão na massa. 💻🤓
 </p>
