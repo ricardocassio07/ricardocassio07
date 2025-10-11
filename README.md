@@ -12,7 +12,7 @@
 </p>
 
 <p> </p>
-<hr style="height:1px">
+<hr style="height:0.5px">
 <p> </p>
 
 ###
