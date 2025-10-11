@@ -8,8 +8,7 @@
 
 <div> 
     <div>
-        <h1><div>FALA, REDE!!!</div><div>😁</div></h1>
-        <h1 id="emoji">😁</h1>
+        <h1 style = "display: flex; flexalign: row"><div>FALA, REDE!!!</div><div>😁</div></h1>
     </div>
 
 </div>
