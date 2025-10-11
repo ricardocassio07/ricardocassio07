@@ -1,18 +1,13 @@
-<!-- ## Hi there 👋 -->
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
 </div>
 
 ###
+<h1>FALA, REDE!!! 😁👍</h1>
 
-<div> 
-    <div>
-        <h1 style = "display: flex; flexalign: row"><div>FALA, REDE!!!</div><div>😁</div></h1>
-    </div>
+<h4 align="left">Sou Cássio, formado como técnico em Desenvolvimento de Sistemas e em Administração, atualmente estou ampliando meus conhecimentos em tecnologia como estudante de Análise e Desenvolvimento de Sistemas na Fatec Zona Leste. Apaixonado por programação e tecnologia, estou sempre em busca de aprender e colocar a mão na massa. 💻🤓
 
-</div>
-<h4 align="left">Hello World!!</h4>
+Fora do mundo tech, curto acompanhar GPs de Fórmula 1, jogos de futebol, bons filmes e explorar conhecimentos em Inglês e matemática. Sou fã de hobbies diversos e adoro descobrir novos interesses para adicionar à lista. Também curto conhecer novas pessoas e ouvir suas histórias, acredito que cada experiência tem algo para ensinar. ⚽️🏎🎞🫂</h4>
 
 ###
 
