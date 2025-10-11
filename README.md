@@ -1,6 +1,6 @@
-<div>
+<!-- <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
-</div>
+</div> -->
 
 ###
 <h1>FALA, REDE!!! 😁👍</h1>
@@ -11,6 +11,9 @@
 <p align="left">Fora do mundo tech, curto acompanhar GPs de Fórmula 1, jogos de futebol, bons filmes e explorar conhecimentos em Inglês e matemática. Sou fã de hobbies diversos e adoro descobrir novos interesses para adicionar à lista. Também curto conhecer novas pessoas e ouvir suas histórias, acredito que cada experiência tem algo para ensinar. ⚽️🏎🎞🫂
 </p>
 
+<p></p>
+<p></p>
+<p></p>
 ###
 
 <div align="center">
