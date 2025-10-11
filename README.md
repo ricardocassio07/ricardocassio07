@@ -8,7 +8,7 @@
 
 <div> 
     <div>
-        <h1>FALA, REDE!!!</h1>
+        <h1><div>FALA, REDE!!!</div><div>😁</div></h1>
         <h1 id="emoji">😁</h1>
     </div>
 
